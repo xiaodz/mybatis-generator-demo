@@ -71,7 +71,7 @@
 		</table>
 		<table tableName="goods" domainObjectName="GoodsInfo"
 			enableSelectByExample="false" enableDeleteByExample="false"
-			enableCountByExample="false" selectByExampleQueryId="true"
+			enableCountByExample="false" selectByExampleQueryId="false"
 			enableUpdateByExample="false">
 		</table>
 		<table tableName="orders" domainObjectName="Orders">
